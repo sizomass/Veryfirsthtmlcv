@@ -13,7 +13,7 @@ div {
 .photo {
   position: absolute;
   right: 25px;
-  top: -50px;
+  top: -60px;
 }
 
 h2 {
@@ -21,6 +21,8 @@ h2 {
 }
 
 
-.name {
+h3{
+  font-family: fantasy;
+  font-style: italic;
   
 }
